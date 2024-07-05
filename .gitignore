@@ -97,8 +97,6 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-*.csproj
-*.sln
 
 # Chutzpah Test files
 _Chutzpah*
@@ -398,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore todoList.csproj and todoList.sln
+todoList.csproj
+todoList.sln
